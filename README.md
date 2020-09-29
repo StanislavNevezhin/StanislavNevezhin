@@ -1,4 +1,4 @@
-[!(https://www.pvsm.ru/images/2019/01/24/povyshaem-produktivnost-na-GitHub-sovety-dlya-novichkov-i-ne-tolko.jpg)][1]
+![](https://habrastorage.org/getpro/habr/post_images/598/ec4/2e1/598ec42e15c85716c6954c26840d4f4b.jpg)
 
 ### Добро пожаловать! 👋
 
