@@ -1,4 +1,4 @@
-(https://www.pvsm.ru/images/2019/01/24/povyshaem-produktivnost-na-GitHub-sovety-dlya-novichkov-i-ne-tolko.jpg)
+[!(https://www.pvsm.ru/images/2019/01/24/povyshaem-produktivnost-na-GitHub-sovety-dlya-novichkov-i-ne-tolko.jpg)][1]
 
 ### Добро пожаловать! 👋
 
