@@ -9,6 +9,7 @@
 **Kaggle**: https://www.kaggle.com/stanislavnevezhin
 
 ↪️✌️ Мое резюме можно найти [тут](https://hh.ru/resume/58d05c8eff085992270039ed1f5675414e5648) 
+
 📩 Буду рад пообщаться в [Telegram](https://t.me/Stanislav_Nevezhin) и по почте [snevevzhin@gmail.com](mailto:snevevzhin@gmail.com)   
 
 ---
@@ -23,4 +24,5 @@ My PhD degree in Engineering and 10 years of experience in Thermal spraying and 
 **Kaggle**: https://www.kaggle.com/stanislavnevezhin
 
 ↪️✌️ CV [here](https://hh.ru/resume/58d05c8eff085992270039ed1f5675414e5648) and profile of [LinkedIn] (https://www.linkedin.com/mwlite/in/stanislav-nevezhin)  
+
 📩  If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](https://t.me/Stanislav_Nevezhin) or e-mail: [snevevzhin@gmail.com](mailto:snevevzhin@gmail.com)
