@@ -1,26 +1,29 @@
 ### Добро пожаловать! 👋
 
-Я Станислав Невежин, а это мои проекты в Data Analysis и BI-аналитике 📚.
+Я Станислав Невежин, кандидат технических наук, Data и BI-аналитик 📚.
 
-Степень кандидата технических наук, полученная в Уральском федеральном университете, а также работа по внедрению новых технологических процессов и решений для крупнейших отечественных и зарубежных предприятий металлургии, машиностроения, нефте- и газодобычи позволяют мне организовать эффективное взаимодействие с разработчиками, производителями и поставщиками, а также руководством предприятий-потребителей сложных технологических решений.
-
-**Stack**:   SQL (MySQL Workbench, PostgreSQL pgAdmin, DBeaver), Microsoft Power BI, Tableau, Python (Pandas, Data Mining / Analysis, ML/DL).   
-**Kaggle**: https://www.kaggle.com/stanislavnevezhin
+Более 10 лет я занимаюсь анализом, разработкой и внедрением новых технологических процессов и решений для крупнейших отечественных и зарубежных компаний.
 
 ↪️✌️ Мое резюме можно найти [тут](https://hh.ru/resume/58d05c8eff085992270039ed1f5675414e5648) 
 
 📩 Буду рад пообщаться в [Telegram](https://t.me/Stanislav_Nevezhin) и по почте [snevevzhin@gmail.com](mailto:snevevzhin@gmail.com)   
 
----
-### Welcome! 👋
+**Hard Skills**:   1) SQL - MySQL, PostgreSQL, DBeaver;
+2) BI - Microsoft Power BI, Tableau, Fine BI, Redash;
+3) Python:
+Base - Pandas, Numpy, SciPy;
+Visualization - Matplotlib, Seaborn, Plotly;
+ML - Scikit-Learn, LightGBM, XGBoost, Catboost, LAMA;
+DL - TensorFlow, Keras, PyTorch;
+PROD - Streamlit, Flask;
+DE - Docker, Hadoop, Hive, PySpark, Linux, Git, Heroku.
 
-I am Stanislav Nevezhin, here's my projects in Data Analysis and BI-analytics 📚.
+**Soft Skills**:
+- Умение строить гипотезы, проводить исследования и визуализировать данные/полученные результаты;
+- Навыки командной работы как в качестве руководителя проекта, так и исполнителя;
+- Умение работать в режиме многозадачности;
+- Желание и готовность развиваться в сфере анализа данных.
 
-My PhD degree in Engineering and 10 years of experience in Thermal spraying and 3D printing (WAAM, DMLS, SLS SLM, FDM) garantie  best approaches for you challenges in metallurgy, machinery and oil- gas production.
-
-**Stack**:   SQL (MySQL Workbench, PostgreSQL pgAdmin, DBeaver), Microsoft Power BI, Tableau, Python (Pandas, Data Mining / Analysis, ML/DL). 
 **Kaggle**: https://www.kaggle.com/stanislavnevezhin
 
-↪️✌️ CV [here](https://hh.ru/resume/58d05c8eff085992270039ed1f5675414e5648) and profile of [LinkedIn] (https://www.linkedin.com/mwlite/in/stanislav-nevezhin)  
 
-📩  If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](https://t.me/Stanislav_Nevezhin) or e-mail: [snevevzhin@gmail.com](mailto:snevevzhin@gmail.com)
