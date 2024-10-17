@@ -9,7 +9,7 @@
 📩 Буду рад пообщаться в [Telegram](https://t.me/Stanislav_Nevezhin) и по почте [snevevzhin@gmail.com](mailto:snevevzhin@gmail.com)   
 
 **Hard Skills**:   1) SQL - MySQL, PostgreSQL, DBeaver;
-2) BI - Microsoft Power BI, Tableau, Fine BI, Redash;
+2) BI - Microsoft Power BI, Tableau;
 3) Python:
 Base - Pandas, Numpy, SciPy;
 Visualization - Matplotlib, Seaborn, Plotly;
