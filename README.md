@@ -26,7 +26,7 @@ DE - Docker, Hadoop, Hive, PySpark, Linux, Git, Heroku.
 
 **Kaggle**: https://www.kaggle.com/stanislavnevezhin
 
-## Выпускная работа
+## Финальный проект
 | Название проекта | Описание | Стек и инструменты |
 | :--- | --- | --- |
 | [Финальный проект](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final) | Исследование временных рядов основных котировок крупных корпораций - Apple, Microsoft, Google, nVidia. Запуск наилучшего инференса модели в качестве сервиса | **sklearn.linear_model** (LinearRegression), **sklearn.ensemble** (AdaBoostRegressor, GradientBoostingRegressor, VotingRegressor), **sklearn.model_selection** (GridSearchCV, TimeSeriesSplit, cross_val_score), **sklearn.metrics** (mean_absolute_percentage_error, mean_squared_error, r2_score), **statsmodels.tsa** (seasonal, arima.model, stattools.adfuller), **statsmodels.graphics.tsaplots** (plot_acf, plot_pacf), **Catboost** (CatBoostRegressor), **prophet** (Prophet), **statsmodels.tsa** (seasonal, arima.model, stattools.adfuller), **statsmodels.graphics.tsaplots** (plot_acf, plot_pacf), **pmdarima** (auto_arima), **seaborn** (lineplot, pairplot, heatmap), **with** statement, time series, AIC, concat, correlation matrix, cross validation, correlogram, datetime, EDA, feature engineering, os.path, resample, rolling, stationarity, SMA, ARIMA, GPU, yfinance, pickle, Docker, Dockerfile, Flask |
