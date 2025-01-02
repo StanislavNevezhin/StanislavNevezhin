@@ -62,7 +62,7 @@ DE - Docker, Hadoop, Hive, PySpark, Linux, Git, Heroku.
 | [Проект 0.12. MATH_ML. Наивный байесовский классификатор](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT-0.12) | Реализация классификатора спам-сообщений, подбор гиперпараметра модели | **sklearn.metrics** (classification_report, roc_curve), **sklearn.model_selection** (train_test_split, GridSearchCV), **sklearn.naive_bayes** (ComplementNB), **sklearn.feature_extraction** (text.CountVectorizer), **seaborn** (countplot, lineplot), **numpy** (nan), EDA, feature engineering, regex |
 | [Проект 0.13. MATH_ML. Временные ряды](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT-0.13) | Анализ ВВП африканской страны Гана, расчёт волатильности, подбор гиперпараметров временных моделей | **sklearn.linear_model** (LinearRegression), **sklearn.model_selection** (GridSearchCV, TimeSeriesSplit), **sklearn.metrics** (mean_absolute_error, mean_absolute_percentage_error, mean_squared_error, r2_score), **statsmodels.tsa** (seasonal, arima.model, stattools.adfuller), **statsmodels.graphics.tsaplots** (plot_acf, plot_pacf), **pmdarima** (auto_arima), **arch.univariate** (arch_model), **seaborn** (lineplot), time series, AIC, MASE, correlogram, gdown, os.path, cross validation, EDA, rolling, interpolation, stationarity, SMA, ARIMA, GARCH |
 
-:arrow_up:[вверх ↑](https://github.com/yaroslav-vorobyov/SF_DST#data-science)
+:arrow_up:[вверх ↑]([https://github.com/StanislavNevezhin/StanislavNevezhin/edit/master/README.md])
 
 ## Лицензия
 
